@@ -19,7 +19,7 @@ package com.android.example.github.util
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.DefaultLifecycleObserver
 import androidx.lifecycle.LifecycleOwner
-import androidx.lifecycle.observe
+//import androidx.lifecycle.observe
 import kotlin.properties.ReadWriteProperty
 import kotlin.reflect.KProperty
 
